@@ -1,0 +1,73 @@
+# Translation of Plugins - WooCommerce Enhancements for Spanish Market - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WooCommerce Enhancements for Spanish Market - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-20 01:11:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WooCommerce Enhancements for Spanish Market - Stable (latest release)\n"
+
+#: woocommerce-es.php:323
+msgid "This controls if company field will be shown"
+msgstr "Esto controla si quieres que se muestre el campo empresa"
+
+#: woocommerce-es.php:322
+msgid "Show Company field?"
+msgstr "¿Mostrar el campo empresa?"
+
+#: woocommerce-es.php:307
+msgid "This controls if VAT field will be shown in checkout."
+msgstr "Esto controla si quieres que el campo CIF/NIF se muestre al finalizar la compra."
+
+#: woocommerce-es.php:306
+msgid "Ask for VAT in Checkout?"
+msgstr "¿Preguntar por el CIF/NIF al finalizar la compra?"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Enhancements for Spanish Market"
+msgstr "WooCommerce Enhancements for Spanish Market"
+
+#. Author URI of the plugin
+msgid "http://www.closemarketing.net/"
+msgstr "https://www.closemarketing.net/"
+
+#. Author of the plugin
+msgid "Closemarketing"
+msgstr "Closemarketing"
+
+#. Description of the plugin
+msgid "Extends the WooCommerce plugin for Spanish needs: EU VAT included in form and order, and add-ons with the Spanish language."
+msgstr "Añade funcionalidades al plugin WooCommerce para las necesidades de España: Se incluye NIF/CIF en el formulario y pedido, además de traducciones en español."
+
+#. Plugin URI of the plugin
+msgid "http://www.closemarketing.es/portafolio/plugin-woocommerce-espanol/"
+msgstr "https://www.closemarketing.es/portafolio/plugin-woocommerce-espanol/"
+
+#: woocommerce-es.php:331
+msgid "Optimizes your checkout to better conversion."
+msgstr "Optimiza tu página de finalizar compra para mejor conversión."
+
+#: woocommerce-es.php:330
+msgid "Optimize Checkout?"
+msgstr "¿Optimizar página de finalizar compra?"
+
+#: woocommerce-es.php:315
+msgid "This controls if VAT info would be mandatory in checkout."
+msgstr "Controla si el NIF sería obligatorio al finalizar la compra."
+
+#: woocommerce-es.php:314
+msgid "VAT info mandatory?"
+msgstr "¿NIF Obligatorio?"
+
+#: woocommerce-es.php:285
+msgid "VAT info:"
+msgstr "Info NIF/CIF:"
+
+#: woocommerce-es.php:233 woocommerce-es.php:234 woocommerce-es.php:256
+#: woocommerce-es.php:274
+msgid "VAT No"
+msgstr "CIF/NIF"
