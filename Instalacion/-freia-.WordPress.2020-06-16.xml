@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.2" created="2020-06-15 03:25" -->
+	<!-- generator="WordPress/5.4.2" created="2020-06-16 22:27" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>-Freia-</title>
 	<link>http://localhost/freia</link>
 	<description>-Freia-</description>
-	<pubDate>Mon, 15 Jun 2020 03:25:40 +0000</pubDate>
+	<pubDate>Tue, 16 Jun 2020 22:27:09 +0000</pubDate>
 	<language>es</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/freia</wp:base_site_url>
@@ -20856,7 +20856,10 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 						Salir
 					</a>
 		<!-- wp:shortcode -->
-[woocommerce_my_account]
+<p> </p>
+<p>[woocommerce_my_account]</p>
+<p> </p>
+<p> </p>
 <!-- /wp:shortcode -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>134</wp:post_id>
@@ -20888,8 +20891,20 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[neve_meta_enable_content_width]]></wp:meta_key>
+		<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -20908,8 +20923,20 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[neve_meta_enable_content_width]]></wp:meta_key>
+		<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -20928,10 +20955,6 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -20948,10 +20971,6 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -20966,50 +20985,6 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[neve_meta_enable_content_width]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[neve_meta_enable_content_width]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -21040,16 +21015,8 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -21204,22 +21171,6 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
@@ -21228,8 +21179,8 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -21256,24 +21207,8 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -21288,28 +21223,8 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -21328,10 +21243,6 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -21348,10 +21259,6 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -21366,10 +21273,6 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[neve_meta_disable_title]]></wp:meta_key>
@@ -21381,7 +21284,11 @@ Los avatares de los comentaristas provienen de <a href="https://gravatar.com">Gr
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"426c71b","elType":"section","settings":[],"elements":[{"id":"6489de7","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"fe5e63b","elType":"widget","settings":{"editor":"<h1>Mi cuenta<\/h1>","align":"center","text_color":"#0F4C74"},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"b8d666a","elType":"section","settings":{"structure":"50"},"elements":[{"id":"98e106e","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"c7b807e","elType":"widget","settings":{"text":"Inicio","link":{"url":"http:\/\/localhost\/freia\/my-account\/","is_external":"","nofollow":"","custom_attributes":""},"align":"justify","align_tablet":"justify","size":"md","icon_indent":{"unit":"px","size":0,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#3182B8","hover_color":"#FFFFFF","button_background_hover_color":"#0F4C75","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0, 0, 0, 0.38)"},"text_padding":{"unit":"px","top":"20","right":"60","bottom":"20","left":"60","isLinked":false},"_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"botonasd"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"6a20b55","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"4bc0f27","elType":"widget","settings":{"text":"Pedidos","link":{"url":"http:\/\/localhost\/freia\/my-account\/orders\/","is_external":"","nofollow":"","custom_attributes":""},"align":"justify","align_tablet":"justify","size":"md","icon_indent":{"unit":"px","size":0,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#3182B8","hover_color":"#FFFFFF","button_background_hover_color":"#0F4C75","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0, 0, 0, 0.38)"},"text_padding":{"unit":"px","top":"20","right":"60","bottom":"20","left":"60","isLinked":false},"_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"botonasd"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"72137d1","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"23fc91b","elType":"widget","settings":{"text":"Direccion","link":{"url":"http:\/\/localhost\/freia\/my-account\/edit-address\/","is_external":"","nofollow":"","custom_attributes":""},"align":"justify","align_tablet":"justify","size":"md","icon_indent":{"unit":"px","size":0,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#3182B8","hover_color":"#FFFFFF","button_background_hover_color":"#0F4C75","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0, 0, 0, 0.38)"},"text_padding":{"unit":"px","top":"20","right":"60","bottom":"20","left":"60","isLinked":false},"_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"botonasd"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"b7adecc","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"b42370d","elType":"widget","settings":{"text":"Informaci\u00f3n","link":{"url":"http:\/\/localhost\/freia\/my-account\/edit-account\/","is_external":"","nofollow":"","custom_attributes":""},"align":"justify","align_tablet":"justify","size":"md","icon_indent":{"unit":"px","size":0,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#3182B8","hover_color":"#FFFFFF","button_background_hover_color":"#0F4C75","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0, 0, 0, 0.38)"},"text_padding":{"unit":"px","top":"20","right":"60","bottom":"20","left":"60","isLinked":false},"_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"botonasd"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"4ab10ed","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"17d606d","elType":"widget","settings":{"text":"Salir","link":{"url":"http:\/\/localhost\/freia\/wp-login.php?action=logout&redirect_to=%2Ffreia%2Fregistrarse%2F&_wpnonce=d829575752","is_external":"","nofollow":"","custom_attributes":""},"align":"justify","align_tablet":"justify","size":"md","icon_indent":{"unit":"px","size":0,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#3182B8","hover_color":"#FFFFFF","button_background_hover_color":"#0F4C75","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0, 0, 0, 0.38)"},"text_padding":{"unit":"px","top":"20","right":"60","bottom":"20","left":"60","isLinked":false},"_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"botonasd"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"2de6cce3","elType":"section","settings":{"background_background":"classic"},"elements":[{"id":"7207968","elType":"column","settings":{"_column_size":100},"elements":[{"id":"5afa0ca1","elType":"widget","settings":{"editor":"<!-- wp:shortcode -->\n[woocommerce_my_account]\n<!-- \/wp:shortcode -->","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"426c71b","elType":"section","settings":[],"elements":[{"id":"6489de7","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"fe5e63b","elType":"widget","settings":{"editor":"<h1>Mi cuenta<\/h1>","align":"center","text_color":"#0F4C74"},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"b8d666a","elType":"section","settings":{"structure":"50"},"elements":[{"id":"98e106e","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"c7b807e","elType":"widget","settings":{"text":"Inicio","link":{"url":"http:\/\/localhost\/freia\/my-account\/","is_external":"","nofollow":"","custom_attributes":""},"align":"justify","align_tablet":"justify","size":"md","icon_indent":{"unit":"px","size":0,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#3182B8","hover_color":"#FFFFFF","button_background_hover_color":"#0F4C75","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0, 0, 0, 0.38)"},"text_padding":{"unit":"px","top":"20","right":"60","bottom":"20","left":"60","isLinked":false},"_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"botonasd"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"6a20b55","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"4bc0f27","elType":"widget","settings":{"text":"Pedidos","link":{"url":"http:\/\/localhost\/freia\/my-account\/orders\/","is_external":"","nofollow":"","custom_attributes":""},"align":"justify","align_tablet":"justify","size":"md","icon_indent":{"unit":"px","size":0,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#3182B8","hover_color":"#FFFFFF","button_background_hover_color":"#0F4C75","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0, 0, 0, 0.38)"},"text_padding":{"unit":"px","top":"20","right":"60","bottom":"20","left":"60","isLinked":false},"_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"botonasd"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"72137d1","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"23fc91b","elType":"widget","settings":{"text":"Direccion","link":{"url":"http:\/\/localhost\/freia\/my-account\/edit-address\/","is_external":"","nofollow":"","custom_attributes":""},"align":"justify","align_tablet":"justify","size":"md","icon_indent":{"unit":"px","size":0,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#3182B8","hover_color":"#FFFFFF","button_background_hover_color":"#0F4C75","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0, 0, 0, 0.38)"},"text_padding":{"unit":"px","top":"20","right":"60","bottom":"20","left":"60","isLinked":false},"_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"botonasd"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"b7adecc","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"b42370d","elType":"widget","settings":{"text":"Informaci\u00f3n","link":{"url":"http:\/\/localhost\/freia\/my-account\/edit-account\/","is_external":"","nofollow":"","custom_attributes":""},"align":"justify","align_tablet":"justify","size":"md","icon_indent":{"unit":"px","size":0,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#3182B8","hover_color":"#FFFFFF","button_background_hover_color":"#0F4C75","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0, 0, 0, 0.38)"},"text_padding":{"unit":"px","top":"20","right":"60","bottom":"20","left":"60","isLinked":false},"_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"botonasd"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"4ab10ed","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"17d606d","elType":"widget","settings":{"text":"Salir","link":{"url":"http:\/\/localhost\/freia\/wp-login.php?action=logout&redirect_to=%2Ffreia%2Fregistrarse%2F&_wpnonce=d829575752","is_external":"","nofollow":"","custom_attributes":""},"align":"justify","align_tablet":"justify","size":"md","icon_indent":{"unit":"px","size":0,"sizes":[]},"button_text_color":"#FFFFFF","background_color":"#3182B8","hover_color":"#FFFFFF","button_background_hover_color":"#0F4C75","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0, 0, 0, 0.38)"},"text_padding":{"unit":"px","top":"20","right":"60","bottom":"20","left":"60","isLinked":false},"_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"botonasd"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"6ca9e4a","elType":"section","settings":{"background_background":"classic"},"elements":[{"id":"75db9b4","elType":"column","settings":{"_column_size":100},"elements":[{"id":"5e53f68","elType":"widget","settings":{"editor":"<!-- wp:shortcode -->\n<p>\u00a0<\/p>\n<p>[woocommerce_my_account]<\/p>\n<p>\u00a0<\/p>\n<p>\u00a0<\/p>\n<!-- \/wp:shortcode -->","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
